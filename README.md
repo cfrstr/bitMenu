@@ -7,6 +7,7 @@ Built using MakeCode editor and converted to JS
  1. Functioning scroll system
  2. Pedometer
  3. Counter
+ 4. Screen can be turned off (Use A + B on home screen)
 
 ## Downloads
 
