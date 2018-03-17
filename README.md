@@ -10,5 +10,4 @@ Built using MakeCode editor and converted to JS
 
 ## Downloads
 
-JS: Coming Soon
-Hex: Coming Soon
+Releases: [Here](https://github.com/zmall53/bitMenu/releases) 
